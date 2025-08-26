@@ -1,0 +1,10 @@
+# Docker volumes
+prometheus_data/
+grafana_data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
